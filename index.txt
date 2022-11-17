@@ -4,3 +4,4 @@ The questions will have a comment stating the actual person and would have been 
 I hope to change that as the purpose of this repository is to both improve my problem solving skills and get used to using GIT and github.
 
 Index-
+1) Conditions
