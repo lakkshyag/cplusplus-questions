@@ -1,0 +1,6 @@
+This is a .txt file which contains the list of various topics I've solved C++ questions on.
+I'm a beginner and hence the list isn't that varied yet.
+The questions will have a comment stating the actual person and would have been coded to reflect that.
+I hope to change that as the purpose of this repository is to both improve my problem solving skills and get used to using GIT and github.
+
+Index-
